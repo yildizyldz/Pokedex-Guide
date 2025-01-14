@@ -19,5 +19,6 @@ Pokédex Guide, kullanıcı dostu bir arayüze sahiptir. Pokémon kartları, kul
 
 ## Arama Özelliği
 
-![Uploading screen.gif.gif…]()
+![EkranKayd2025-01-14160559-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7b5c97d0-36d5-4f46-8c49-6129e86c699b)
+
 
