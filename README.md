@@ -18,4 +18,5 @@
 Pokédex Guide, kullanıcı dostu bir arayüze sahiptir. Pokémon kartları, kullanıcıların Pokémon'ları hızlıca keşfetmesine olanak tanır. Her kart, Pokémon'un görselini, ismini, türünü, deneyimini ve ağırlığını içerir. Pokémon türüne göre arka plan renkleri otomatik olarak belirlenir.
 
 ## Arama Özelliği
-![Uploading Adsız tasarım.gif…]()
+
+![Uploading screen.gif.gif…]()
